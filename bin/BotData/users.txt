@@ -1,0 +1,260 @@
+n jackal604
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Mar 08 2017]
+h 0
+b Not following
+
+n timmahh_jimmahh
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 23 2017]
+h 0
+b Following
+
+n terminal_mkii
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 15 2017]
+h 0
+b Following
+
+n cornelli13
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 23 2017]
+h 0
+b Following
+
+n illusiveg
+c iou 0
+c terms 544
+c flex 5
+oh iou 0
+oh terms 5
+oh flex 50
+t 0
+f [Feb 28 2016]
+v [Feb 23 2016]
+h 231
+b Following
+
+n chuhdubley
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 15 2017]
+h 0
+b Following
+
+n terminal_bot
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 15 2017]
+h 0
+b Following
+
+n agctowboatman32
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 15 2017]
+h 0
+b Following
+
+n titiga
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 15 2017]
+h 0
+b Following
+
+n chittynurse
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 15 2017]
+h 0
+b Following
+
+n an0therbughunt
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 23 2017]
+h 0
+b Following
+
+n drteamgaming
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 23 2017]
+h 0
+b Following
+
+n kspit04
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 15 2017]
+h 0
+b Following
+
+n durenir
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 16 2017]
+h 0
+b Following
+
+n durenbot
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 15 2017]
+h 0
+b Following
+
+n nightbot
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 15 2017]
+h 0
+b Following
+
+n manofcole
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 15 2017]
+h 0
+b Following
+
+n zxr_x_l3g3nd
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Mar 08 2017]
+h 0
+b Not following
+
+n ageneser6
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 15 2017]
+h 0
+b Following
+
+n nicko7800
+c iou 0
+c terms 0
+c flex 0
+oh iou 0
+oh terms 0
+oh flex 0
+t 0
+f Not following
+v [Feb 15 2017]
+h 0
+b Following
+
